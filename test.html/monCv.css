@@ -144,3 +144,12 @@ footer
     border: 1px groove black;
     margin-right: 5px;
 }
+#insta
+{
+    display:flex;
+    background-image: url("images/wpcss.png") ;
+    background-repeat: no-repeat;
+    border-radius: 10px 10px 10px 10px;
+    border-style: groove;
+    border-color:  rgb(57, 211, 231);
+}
