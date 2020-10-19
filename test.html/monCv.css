@@ -135,8 +135,7 @@ footer
     background-image: url("images/inktober4medium.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
-    border-radius: 5px 5px 5px 5px;
-    
+    border-radius: 5px 5px 5px 5px;  
 }
 
 #photoInktober img h3
@@ -144,6 +143,7 @@ footer
     border: 1px groove black;
     margin-right: 5px;
 }
+
 #insta
 {
     display:flex;
@@ -152,4 +152,23 @@ footer
     border-radius: 10px 10px 10px 10px;
     border-style: groove;
     border-color:  rgb(57, 211, 231);
+}
+
+mark
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: none;
+    color:rgb(255, 255, 255) ;
+}
+
+#faphoto 
+{
+    position: absolute;
+    right:320px;
+    top: 30px;
+    border-radius: 10px 10px 10px 10px;
+    border: 7px groove ;
+    border-bottom: double;
+    border-color:  rgb(57, 211, 231);
+    box-shadow: 10px 6px 5px rgb(58, 18, 57);
 }
